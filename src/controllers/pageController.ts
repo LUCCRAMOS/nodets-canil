@@ -11,7 +11,7 @@ export const home = (req: Request, res: Response) => {
     res.render('pages/page',{
         menu: createMenuObject('all'),
         banner: {
-            title: 'Todos os animais',
+            title: 'Todos os Pets',
             background: 'allanimals.jpg'
         },
         list

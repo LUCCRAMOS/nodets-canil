@@ -24,6 +24,13 @@ const data: Pet[] = [
     },
     {
         type: 'dog',
+        image: 'york.jpg',
+        name: 'Yorkshire terrier',
+        color: 'Preto e marron',
+        sex: 'Feminino'
+    },
+    {
+        type: 'dog',
         image: 'labrador.jpg',
         name: 'Labrador-retriever',
         color: 'Branco',
